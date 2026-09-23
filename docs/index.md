@@ -1,9 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Aloushiz blog
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## This website is still a WIP
 
+*[WIP]: Work in progress
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
@@ -11,7 +12,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml                # The configuration file.
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md              # The documentation homepage.
+        blog/                 # The blog tab.
+            index.md          # I should'nt hand edit this.
+            posts/
+                  welcome.md 
+                  
